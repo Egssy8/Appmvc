@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Beltek.HelloMVC.props" />
+</Project>

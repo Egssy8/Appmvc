@@ -1,0 +1,28 @@
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.exe
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.deps.json
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.runtimeconfig.json
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.pdb
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.AssemblyInfoInputs.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.AssemblyInfo.cs
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.csproj.CoreCompileInputs.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\refint\Beltek.CollectionsApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.pdb
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.genruntimeconfig.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\ref\Beltek.CollectionsApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.exe
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.deps.json
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.runtimeconfig.json
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\bin\Debug\net7.0\Beltek.CollectionsApp.pdb
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.AssemblyInfoInputs.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.AssemblyInfo.cs
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.csproj.CoreCompileInputs.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\refint\Beltek.CollectionsApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.pdb
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\Beltek.CollectionsApp.genruntimeconfig.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.CollectionsApp\obj\Debug\net7.0\ref\Beltek.CollectionsApp.dll

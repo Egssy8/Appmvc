@@ -1,0 +1,44 @@
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.exe
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.deps.json
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.runtimeconfig.json
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.pdb
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.csproj.AssemblyReference.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.AssemblyInfoInputs.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.AssemblyInfo.cs
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.csproj.CoreCompileInputs.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.csproj.CopyComplete
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\refint\Beltek.DbApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.pdb
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.genruntimeconfig.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\ref\Beltek.DbApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.exe
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.deps.json
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.runtimeconfig.json
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\Beltek.DbApp.pdb
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.csproj.AssemblyReference.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.AssemblyInfoInputs.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.AssemblyInfo.cs
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.csproj.CoreCompileInputs.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.csproj.CopyComplete
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\refint\Beltek.DbApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.pdb
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\Beltek.DbApp.genruntimeconfig.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.DbApp\obj\Debug\net7.0\ref\Beltek.DbApp.dll

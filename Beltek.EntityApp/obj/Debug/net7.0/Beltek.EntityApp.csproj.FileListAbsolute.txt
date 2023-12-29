@@ -1,0 +1,136 @@
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.exe
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.deps.json
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.runtimeconfig.json
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.pdb
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Humanizer.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.csproj.AssemblyReference.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.AssemblyInfoInputs.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.AssemblyInfo.cs
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.csproj.CoreCompileInputs.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.csproj.CopyComplete
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\refint\Beltek.EntityApp.dll
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.pdb
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.genruntimeconfig.cache
+C:\Beltek\70\Console\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\ref\Beltek.EntityApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.exe
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.deps.json
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.runtimeconfig.json
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Beltek.EntityApp.pdb
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.csproj.AssemblyReference.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.AssemblyInfoInputs.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.AssemblyInfo.cs
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.csproj.CoreCompileInputs.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.csproj.CopyComplete
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\refint\Beltek.EntityApp.dll
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.pdb
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\Beltek.EntityApp.genruntimeconfig.cache
+C:\Users\Emir Gökalp\Desktop\Beltek.HelloMVC\Beltek.EntityApp\obj\Debug\net7.0\ref\Beltek.EntityApp.dll
